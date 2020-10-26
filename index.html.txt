@@ -1,0 +1,90 @@
+AKIAU7G2DVBCEZK3ARUK
+ly6wDzMypL/PQxyRprng24sXVyajT9FNQc0SR6fq
+
+
+task1
+hdETCpOyD+XHFF9H/fgc8hg7BpIGekIzOM21sn8V
+AKIAU7G2DVBCH2MJ3PYO
+
+
+
+
+hello Rajkumar opening
+
+Looking for job change in AWS / Devops
+
+Hello Team,
+
+Good Day !
+
+Am looking for a job change i have 3.5 years of experience as a AWS Devops engineer 
+
+Please find my attached resume and let me know if you need any further information
+
+Looking forward to hear form you soon
+
+Thank you
+Rajkumar 
+
+devanshu.porwal@bridginggaps.co.in
+md.faiyaz@infinite.com
+bharathi.atla@3i-infotech.com
+rosy@blackbag.in
+aritra.anushree@accionlabs.com
+jerry@sunwells.in
+khushboo.jaiswal@pyramidconsultinginc.com
+anjalic@emids.com
+pavani@inspirartech.com
+bhagyashree.dash@infogain.com
+neelam.dalwani@hiringlink.in
+manikanta@hnssolution.com
+anish.k@focusite.com
+megha@worksourceprofessional.com
+tat09@highnooncorp.com
+dibendus@scorginternational.com
+pushpa@convertcart.com
+devika.badkar@peopleocity.in
+sahana.nag@ellucian.com
+hr@teceubs.com
+rajasekhar.v@technosoftcorp.com
+gayathri@sutherlandglobal.com
+priti.y@idctechnologies.com
+supriya.kammila@infinite.com
+naib.fatma@in.experis.com
+omshakthi.s@msourceone.com
+yathapu.gayathri@adecco.com
+radhika.rai@teamlease.com
+drashpi.patel@prutech.com
+
+Hello Indrajit,
+Good Day!
+Thanks for your response 
+I really impressed with the job description could you please let me know the date and time of the interview 
+So that i can plan accordingly 
+Looking forward to hear from you soon
+Thank you Rajkumar 
+
+
+
+This is Nadeem Shaikh.I have been working as DevOps Engineer for Ness technology from last 3years.Currently We are a team of 8 members.
+We as a pooled resource giving 24/7 support for both production and non production environment for various applications.
+Coming to Non-prod we have about 50instances and for Prod we are using AWS instances for which Auto Scaling Groups is configured.
+Our Application is a majorly client based application and we make sure our entire application lifecycle goes from QA till Prod using automation Tools.
+Once the developer pushes the code to the central repository we get an alert through Jira(Ticketing tool) and the code will be processed into various phases of build pipeline like (Compile,Build,Test,Package,Deploy) in Jenkins as we have already configured the plugins.And the package will be pushed onto the nexus artifact repository using Jenkins.Then we use Ansible to deploy the package onto the servers(Tomcat) of QA environment and QA testers will test it.Once QA testers are done we will move it to UAT and then LoadTest and Pre-Prod 
+Once we are done with QA,UAT,LT,Pre-Prod which is on local vm's we move the package to Production which is on AWS instances & we monitor the application on the servers of prod-environment by using required metrics and make sure the application is up and running.
+we take care of all the 
+the performance issues on 
+the daily basis and the main thing is monitoring.. we make sure all environment..
+especially the production which is on AWS instances is up and accsessable.There
+
+are no issues with any of the instances...
+then we work on tickets
+
+based on their priorities p1 p2 p3....i work mostly on p1 p2 high
+priority tickets and resolve them within tenure of SLA...
+
+ .and as a team we make sure all the tickets are resolved.
+we do lot of taking care of documentations,KT,Team-meetings,bridges,everything  else...
+but majorly,the most important thing is production and 
+we make sure 
+ 	its up and running with perfect state without any hurdles.....
